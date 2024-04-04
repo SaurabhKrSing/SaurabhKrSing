@@ -107,11 +107,9 @@
 ## 🌐 Connect with me:
 
 <p align="left">
-<a href="https://codepen.io/kdjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="kdjf" height="30" width="60" /></a>
-<a href="https://dev.to/skd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="skd" height="30" width="60" /></a>
-<a href="https://twitter.com/kjsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kjsdf" height="30" width="60" /></a>
-<a href="https://linkedin.com/in/dkjf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dkjf" height="30" width="60" /></a>
+<a href="https://www.linkedin.com/in/saurabh-kumar-a12138185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dkjf" height="30" width="60" /></a>
 <a href="https://stackoverflow.com/users/kdsj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="kdsj" height="30" width="60" /></a>
+<a href="https://twitter.com/kjsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kjsdf" height="30" width="60" /></a>
 <!-- <a href="https://codesandbox.com/dskfj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="dskfj" height="30" width="60" /></a> -->
 <!-- <a href="https://kaggle.com/dkj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="dkj" height="30" width="60" /></a> -->
 <a href="https://fb.com/skdj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skdj" height="30" width="60" /></a>
