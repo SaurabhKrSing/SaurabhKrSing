@@ -106,7 +106,7 @@
 
 ## 🌐 Connect with me:
 
-<p align="left">
+<p align="center">
 <a href="https://www.linkedin.com/in/saurabh-kumar-a12138185/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dkjf" height="30" width="60" /></a>
 <a href="https://twitter.com/kjsdf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kjsdf" height="30" width="60" /></a>
 <a href="https://www.facebook.com/SaurabhKumarSingh.SK/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="skdj" height="30" width="60" /></a>
